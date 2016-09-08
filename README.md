@@ -1,2 +1,2 @@
 # moonfruit
-Just a short readme
+Switch to GH-PAGES for website
