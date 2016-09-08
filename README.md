@@ -1,2 +1,2 @@
 # moonfruit
-Just a short readme
+This is the website
